@@ -1,6 +1,7 @@
-# Data-Cleaning-Project
+# Data-Cleaning-Projects
 
-# Highest Career Batting Average in Tests - Data Cleaning & Analysis
+# Project 1
+## Highest Career Batting Average in Tests - Data Cleaning & Analysis
 
 ![Cricket](https://img.icons8.com/color/96/000000/cricket.png)
 
